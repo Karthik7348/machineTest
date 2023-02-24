@@ -1,0 +1,9 @@
+.dash-board img{
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+    height: 100vh;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100vw;
+}

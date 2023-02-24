@@ -1,0 +1,61 @@
+.sign-up {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+    height: 100vh;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.sform {
+    margin: auto;
+    font-weight: bolder;
+    width: fit-content;
+    padding: 40px 50px;
+    background-color: purple;
+    position: relative;
+    top: 50px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.sform h1 {
+    margin: 0px;
+}
+
+
+.sform input {
+    
+    outline: none;
+    border: none;
+    /* border-bottom: 3px solid black; */
+    border-radius: 2px;
+}
+
+.sform button {
+    margin: 20px 9px;
+    padding: 6px 120px;
+    border-radius: 15px;
+    background-color: rgb(235, 7, 53);
+    color: white;
+}
+
+.sform input:focus {
+    font-weight: bold;
+    background-color: rgb(204, 202, 202);
+}
+
+.sform input::placeholder {
+    text-transform: capitalize;
+}
+
+.eye {
+    position: relative;
+    right: 19px;
+    top: 3px;
+}
+
+#hide1 {
+    display: none;
+}

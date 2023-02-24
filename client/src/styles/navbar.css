@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    padding: 20px;
+    background-color: crimson;
+}
+.link{
+    display: flex;
+    gap: 30px;
+}
+.link a,.list a, .logo a{
+    text-decoration: none;
+    color: white;
+}

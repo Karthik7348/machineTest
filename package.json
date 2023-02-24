@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-router-dom": "^6.8.1"
+  },
+  "devDependencies": {
+    "@iconify/react": "^4.1.0"
+  }
+}
